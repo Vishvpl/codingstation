@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/codingstation/static/css/main.3bb99793.css",
-    "main.js": "/codingstation/static/js/main.1e59f377.js",
+    "main.css": "/codingstation/static/css/main.35e08f15.css",
+    "main.js": "/codingstation/static/js/main.fb5e3aab.js",
     "static/js/787.1937f22b.chunk.js": "/codingstation/static/js/787.1937f22b.chunk.js",
     "static/media/syllabus.jpg": "/codingstation/static/media/syllabus.790af9c8af619abbd509.jpg",
     "static/media/bgimg.jpg": "/codingstation/static/media/bgimg.56c8421f70ff1249409a.jpg",
     "index.html": "/codingstation/index.html",
-    "main.3bb99793.css.map": "/codingstation/static/css/main.3bb99793.css.map",
-    "main.1e59f377.js.map": "/codingstation/static/js/main.1e59f377.js.map",
+    "main.35e08f15.css.map": "/codingstation/static/css/main.35e08f15.css.map",
+    "main.fb5e3aab.js.map": "/codingstation/static/js/main.fb5e3aab.js.map",
     "787.1937f22b.chunk.js.map": "/codingstation/static/js/787.1937f22b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bb99793.css",
-    "static/js/main.1e59f377.js"
+    "static/css/main.35e08f15.css",
+    "static/js/main.fb5e3aab.js"
   ]
 }
